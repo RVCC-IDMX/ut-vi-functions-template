@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /*
  * functions-01.js
  * Language: javascript
@@ -78,5 +79,5 @@ module.exports = {
   isStrangePair,
   convertToDecimal,
   checkSameSum,
-  saveLogin
+  saveLogin,
 };

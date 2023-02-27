@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /*
  * functions-02.js
  * Language: javascript
